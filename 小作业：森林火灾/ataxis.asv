@@ -1,0 +1,12 @@
+function [p1,p2] = ataxis( p )
+%求坐标，返回横坐标纵坐标
+%2015.10.7
+%     p1=mod(a(i),s);
+%     if(p1==0) 
+%         p1=s;
+%     end
+%     p2=(a(i)-p1)/s+1
+
+
+end
+
